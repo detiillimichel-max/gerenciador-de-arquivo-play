@@ -24,4 +24,4 @@ JavaScript (ES6+)
 Web APIs: MediaRecorder, getUserMedia, localStorage, Audio
 🚀 Como usar
 Acesse a URL abaixo : 
-Feito com responsabilidade 
+Feito com responsabilidade .
